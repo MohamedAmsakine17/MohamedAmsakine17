@@ -1,5 +1,5 @@
 ![logo](https://github.com/MohamedAmsakine17/MohamedAmsakine17/blob/main/Dark%20Blue%20Violet%20White%20Anime%20Music%20Twitch%20Offline%20Banner%20(1).gif)
-<h1 align="center">👋 Hello! I'mI Mohamed, a Full Stack Web Developer and Video Game Developer.</h1>
+<h1 align="center">👋 Hello! I'm Mohamed Amsakine.</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Video Game Developer from Morocco</h3>
 
 <img align="right" alt="coding" src="https://www.giantbomb.com/a/uploads/original/2/24786/2708354-replace%20laptop.gif"/>
